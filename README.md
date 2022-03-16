@@ -30,3 +30,6 @@
       enviando los argumentos correspondientes y devolviendo por consola el contenido
       del archivo luego de que haya sido creado.</li>
   </ul>
+
+<br>
+<h4> Una descargado / Clonado el Repo, en la consola ejecutar $  node child_process.js </h4>
