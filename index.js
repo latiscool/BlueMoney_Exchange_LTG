@@ -38,7 +38,7 @@ https
       let coinConverter = (amountChange / indicatorValue).toFixed(2); //Cambia Pesos a Dolar
 
       //       3. Crear un archivo con el módulo fs cuyos datos están formados por los argumentos
-      // recibidos por línea de comando y su contenido basado en el -LTG- template de la  descripción
+      // recibidos por línea de  comando y su contenido basado en el -LTG- template de la  descripción
       fs.writeFileSync(
         `${fileName}.${fileExtension}`,
         `       A la fecha: ${Date()}\n

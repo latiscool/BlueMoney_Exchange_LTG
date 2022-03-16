@@ -6,7 +6,7 @@
 const child_process = require('child_process');
 
 //emulamos la consola para ejecutar el archivo .js que la miniApp que llama a la Api y convetir CLP USD
-// ademas de pasar por consola los argumentos y que lo capture la miniApp.
+// ademas de pasar por consola los argumentos y que  lo capture la miniApp.
 child_process.exec(
   `node index.js ExchangeMonkey txt dolar 250000`,
   (err, result) => {

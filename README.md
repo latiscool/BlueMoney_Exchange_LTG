@@ -1,6 +1,6 @@
   <h1> Cotiza con BlueMoney </h1>
 
-  <h3> Descripción</h3>
+  <h3> Descripción</h3> 
   <p>
     La casa de cambios BlueMoney Spa está interesada en ofrecer una plataforma web por lo
     que solicitó contratar a un desarrollador para la creación de una aplicación que calcule los
