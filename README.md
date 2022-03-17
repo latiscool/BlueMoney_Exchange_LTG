@@ -5,15 +5,15 @@
     La casa de cambios BlueMoney Spa está interesada en ofrecer una plataforma web por lo
     que solicitó contratar a un desarrollador para la creación de una aplicación que calcule los
     montos de las cotizaciones y registre las consultas en un archivo de texto usando el
-    siguiente template:
-    A la fecha: Thu Sep 03 2020 18:41:00 GMT-0400 (GMT-04:00)
-    Fue realizada cotización con los siguientes datos:
-    Cantidad de pesos a convertir: 250000 pesos
-    Convertido a "dólar" da un total de:
-    $324,06
-    Deberás construir una aplicación en Node que reciba los datos para la cotización por la línea
-    de comandos, como argumentos y consulte la API mindicador para los cálculos
-    correspondientes.
+    siguiente template:<br>
+    A la fecha: Thu Sep 03 2020 18:41:00 GMT-0400 (GMT-04:00)<br>
+    Fue realizada cotización con los siguientes datos:<br>
+    Cantidad de pesos a convertir: 250000 pesos<br>
+    Convertido a "dólar" da un total de:<br>
+    $324,06<br>
+    Deberás construir una aplicación en Node que reciba los datos para la cotización por la línea<br>
+    de comandos, como argumentos y consulte la API mindicador para los cálculos<br>
+    correspondientes.<br>
   </p>
 
   <ul>
